@@ -4,7 +4,7 @@
 
 <!-- - 🌐 Visit my [Portfolio website](https://vutiendat3601.github.io/) for more information and to get in touch. -->
 <ul>
-  <li>👉 Founder of <a href="https://bit.ly/vutiendat3601-cv">Beat Buddy</a>, an online streaming music application</li>
+  <li>👉 Founder of <a href="https://beatbuddy.io.vn">Beat Buddy</a>, an online streaming music application</li>
   <li>👉 View my <a href="https://bit.ly/vutiendat3601-cv">Curriculum Vitae</a></li>
   <li>👉 Connect with me on <a href="https://www.linkedin.com/in/dat-vu-526a8a1a5">LinkedIn</a></li>
   <li>👉 Follow me on <a href="https://www.instagram.com/vutiendat3601">Instagram</a></li>
