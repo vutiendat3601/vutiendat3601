@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=Spring&logoColor=white" alt="Spring Boot" width="140" height="32">
   </a>
   <a href="https://react.dev/" target="_blank">
-    <img src="https://shields.io/badge/react-black?logo=react&color=23272F" alt="ReactJS" width="120" height="32">
+    <img src="https://shields.io/badge/react-black?logo=react&color=23272F" alt="React" width="120" height="32">
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white" alt="Docker" width="100" height="32">
