@@ -40,5 +40,5 @@
   </a>
 </p>
 
-<h2>Visited</h3>
+<h2>Visit</h3>
 <img src="https://profile-counter.glitch.me/vutiendat3601/count.svg"/>
