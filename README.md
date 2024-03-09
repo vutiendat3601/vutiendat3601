@@ -39,3 +39,6 @@
     <img src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white" alt="Docker" width="100" height="32">
   </a>
 </p>
+
+<h2>Visited</h3>
+<img src="https://profile-counter.glitch.me/vutiendat3601/count.svg"/>
