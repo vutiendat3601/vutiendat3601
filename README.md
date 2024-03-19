@@ -36,6 +36,9 @@
     <img src="https://shields.io/badge/react-black?logo=react&color=23272F" alt="React" width="120" height="32">
   </a>
   <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&color=9f9f9f&logoColor=black" alt="Linux" width="100" height="32">
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white" alt="Docker" width="100" height="32">
   </a>
 </p>
