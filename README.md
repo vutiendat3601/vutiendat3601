@@ -1,5 +1,5 @@
 # Hi 👋 I am Dat Vu! 
-<p>As a final-year student, I am excited to apply for the intern full-stack developer position, leveraging my skills in Spring Boot and  ReactJS. Throughout my academic journey, I have developed a strong foundation in both front-end and back-end technologies, which I believe makes me well-suited for this role.	With my knowledge of backend, I enjoy solving backend problems and optimizing the system. I also spend time learning new technologies and best practices to become a better developer.</p>
+<p>I am excited to apply for the intern backend developer position, leveraging my skills in Spring Boot and  ReactJS. Throughout my academic journey, I have developed a strong foundation in back-end technologies, which I believe makes me well-suited for this role.	With my knowledge of backend, I enjoy solving backend problems and optimizing the system. I also spend time learning new technologies and best practices to become a better developer.</p>
 
 
 <!-- - 🌐 Visit my [Portfolio website](https://vutiendat3601.github.io/) for more information and to get in touch. -->
