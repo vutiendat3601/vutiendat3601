@@ -1,5 +1,9 @@
-# Hi 👋 I am Dat Vu! 
-<p>I am excited to apply for the backend developer position, leveraging my skills in Spring Boot. I have developed a strong foundation in back-end technologies, which I believe makes me well-suited for this role. With my knowledge of backend, I enjoy solving backend problems and optimizing the system. I also spend time learning new technologies and best practices to become a better developer.</p>
+# Hi 👋 everyone
+<p>My name is Dat (Vũ Tiến Đạt). I'm originally from Dak Nong, but I have been living in Ho Chi Minh City since 2019.
+After graduating from high school in 2019, I was unsure which field to pursue, so I decided to take only the graduation exam and did not apply for any universities.
+From 2019 to 2020, I worked various low-paying jobs such as a coffee shop employee and a warehouse worker. During this time, I often wondered why others could afford things they wanted after a month of work, while it took me half a year. This led me to decide to retake the university entrance exam.
+After researching fields like accounting, banking, and information technology, I realized I enjoyed working with computers the most. Back in 2014, I followed some programming tutorials on the YouTube channel Study And Share (https://www.youtube.com/@studyandshare2012). Although I didn't know it was programming at the time, I found it fascinating.
+Ultimately, I decided to take the university entrance exam again in 2021 with the A1 combination of subjects. After three months of waiting, I was accepted into my first choice, Software Engineering at the Vietnam Academy of Cryptography Techniques (Học viện Kỹ thuật Mật mã tại TP Hồ Chí Minh). I am currently in my final year of study.</p>
 
 
 <!-- - 🌐 Visit my [Portfolio website](https://vutiendat3601.github.io/) for more information and to get in touch. -->
