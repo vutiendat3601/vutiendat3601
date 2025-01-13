@@ -19,6 +19,9 @@
   <a href="https://openjdk.org/" target="_blank">
     <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java" width="80" height="32">
   </a>
+  <a href="https://openjdk.org/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white" alt="Amazon Web Services" width="80" height="32">
+  </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF" alt="TypeScript" width="140" height="32">
   </a>
