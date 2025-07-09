@@ -1,0 +1,72 @@
+:root {
+  --primary-color: #7264d6;
+  --aside-backgroud-color: #f7f9fc;
+  --profile-picture-height: 120px;
+  --gray-dark-color: #47516b;
+  --gray-lightest-color: #e2e6ee;
+  --gray-default-color: #79819a;
+}
+
+*,
+::before,
+::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  scroll-behavior: smooth;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: 'Nunito', sans-serif;
+}
+
+/* #: Common */
+
+.heading-1,
+.heading-2,
+.heading-3,
+.heading-4,
+.heading-5,
+.heading-6 {
+  font-weight: 500;
+}
+
+.heading-1 {
+  font-size: 2.986rem;
+}
+
+.heading-2 {
+  font-size: 2.488rem;
+}
+
+.heading-3 {
+  font-size: 2.074rem;
+}
+
+.heading-4 {
+  font-size: 1.728rem;
+}
+.heading-5 {
+  font-size: 1.44rem;
+}
+.heading-6 {
+  font-size: 1.2rem;
+}
+
+.seperator {
+  width: 100%;
+  height: 1px;
+  background: var(--gray-lightest-color);
+}
+
+.link {
+  text-decoration: none;
+}
+/* # Common */

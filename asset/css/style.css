@@ -1,0 +1,151 @@
+.main {
+  /* display: flex; */
+}
+
+.aside {
+  background: var(--aside-backgroud-color, #7264d6);
+  height: 100%;
+  padding: 24px;
+}
+
+.content {
+  background: green;
+  height: 100%;
+}
+
+/* #: Profile */
+.profile {
+  /* margin-top: calc(var(--profile-picture-height, 80px) - 24px); */
+  padding: 16px 0;
+}
+
+.profile .picture,
+.profile .signature {
+  width: 150px;
+  height: 150px;
+  border-radius: 8px;
+  mix-blend-mode: multiply;
+}
+
+.profile .display-name {
+  color: #2e2e48;
+  font-weight: 500;
+  line-height: 1.25;
+}
+
+.profile .role {
+  margin-top: 4px;
+  background: linear-gradient(90deg, #a478e8 0%, #516cf7 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.profile .quote-wrapper {
+  margin-top: 16px;
+  padding: 0 20px;
+}
+
+.profile .seperator {
+  margin: 16px 0;
+}
+
+.profile .quote,
+.profile .quote-author {
+  color: var(--gray-dark-color);
+  line-height: 1.33;
+  letter-spacing: 0.1rem;
+}
+
+.profile .quote {
+  font-size: 1.8rem;
+  font-family: 'Bad Script';
+  width: max-content;
+  position: relative;
+}
+
+.profile .quote::before,
+.profile .quote::after {
+  display: block;
+  content: '';
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+
+.profile .quote::before {
+  top: 0;
+  left: -20px;
+  background-image: url('../img/open-quote.svg');
+}
+
+.profile .quote::after {
+  bottom: 0;
+  right: -20px;
+  background-image: url('../img/close-quote.svg');
+}
+
+.profile .quote-author {
+  margin-top: 4px;
+  font-size: 1.2rem;
+}
+
+.profile .attribute-list {
+  display: flex;
+  flex-direction: column;
+  row-gap: 16px;
+}
+
+.profile .attribute-wrapper {
+  display: flex;
+  justify-content: flex-start;
+  column-gap: 8px;
+  align-items: center;
+}
+
+.profile .attribute-icon-wrapper {
+  display: flex;
+  align-items: center;
+  justify-self: center;
+  width: 32px;
+  height: 32px;
+  padding: 6px;
+  background-color: var(--gray-lightest-color);
+  border-radius: 50%;
+}
+
+.profile .attribute-icon {
+  width: 100%;
+  height: 100%;
+}
+
+.profile .attribute-detail {
+  display: flex;
+  flex-direction: column;
+  row-gap: 4px;
+}
+
+.profile .attribute-name {
+  font-size: 1.4rem;
+  color: var(--gray-default-color);
+}
+
+.profile .attribute-value {
+  font-size: 1.4rem;
+  color: var(--gray-dark-color);
+}
+
+.profile .attribute-icon-wrapper.filled {
+
+  padding: 0;
+  background-color: var(--background-color, transparent);
+}
+
+.profile .list-with-heading {
+  display: flex;
+  flex-direction: column;
+  row-gap: 12px;
+}
+/* # Profile */
