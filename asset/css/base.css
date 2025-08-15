@@ -2,8 +2,10 @@
   --primary-color: #7264d6;
   --aside-backgroud-color: #fff;
   --profile-picture-height: 120px;
-  --white-color: #ffffff;
+  --white-color: #fff;
+  --gray-color: #79819a;
   --gray-dark-color: #47516b;
+  --gray-darkest-color: #2e2e48;
   --gray-lightest-color: #e2e6ee;
   --gray-lightest-2-color: #f7f9fc;
   --gray-default-color: #79819a;
@@ -62,11 +64,22 @@ a:hover {
 .heading-4 {
   font-size: 1.728rem;
 }
+
 .heading-5 {
   font-size: 1.44rem;
 }
+
 .heading-6 {
   font-size: 1.2rem;
+}
+
+.heading-1,
+.heading-2,
+.heading-3,
+.heading-4,
+.heading-5,
+.heading-6 {
+  color: var(--gray-darkest-color);
 }
 
 .horizontal-seperator {
@@ -83,6 +96,7 @@ a:hover {
 
 .link {
   text-decoration: none;
+  color: var(--gray-dark-color);
 }
 
 .btn {
