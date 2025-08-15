@@ -1,0 +1,32 @@
+/* Extra small (xs) — <576px: No media query needed as it's the default */
+
+/* Small (sm) — ≥576px */
+@media (min-width: 576px) {
+  .profile .picture-wrapper {
+    flex-direction: row;
+  }
+  .profile .picture {
+    width: 134px;
+  }
+}
+
+/* Medium (md) — ≥768px */
+@media (min-width: 768px) {
+}
+
+/* Large (lg) — ≥992px */
+@media (min-width: 992px) {
+  .profile .picture,
+  .profile .qrcode {
+    width: 140px;
+    height: 140px;
+  }
+}
+
+/* XL — ≥1200px */
+@media (min-width: 1200px) {
+}
+
+/* XXL — ≥1400px */
+@media (min-width: 1400px) {
+}

@@ -11,27 +11,41 @@
     <link rel="stylesheet" href="./asset/css/bootsrap-grid.min.css" />
     <link rel="stylesheet" href="./asset/css/base.css" />
     <link rel="stylesheet" href="./asset/css/style.css" />
+    <link rel="stylesheet" href="./asset/css/responsive.css" />
   </head>
 
   <body>
     <main class="app">
       <div class="container-fluid">
         <div class="row wrapper">
+          <!-- Aside -->
           <aside class="col-12 col-md-5 col-lg-4 aside">
             <section class="profile">
               <!-- Basic information -->
               <div class="picture-wrapper">
                 <img class="picture" src="./asset/img/avatar.jpg" alt="" />
-                <img class="signature" src="./asset/img/signature.png" alt="" />
+                <img
+                  class="d-none d-sm-block qrcode"
+                  src="./asset/img/zalo-qrcode.jpg"
+                  alt=""
+                />
+                <a class="d-sm-none sms-link" href="#!">
+                  <div class="btn sms-cta">
+                    <img class="cta-icon" src="./asset/img/icon/zalo-icon.svg" alt=""></img>
+                    <span>SMS</span>
+                  </div>
+                </a>
               </div>
-              <h1 class="heading-1 display-name">Dat Vu (Vũ Tiến Đạt)</h1>
+              <h1 class="heading-1 display-name">Vu Tien Dat</h1>
               <h2 class="heading-2 role">Software Engineer</h2>
               <div class="quote-wrapper">
-                <p class="quote">You are the master of your destiny.</p>
+                <p class="quote">
+                  &ldquo;You are the master of your destiny.&rdquo;
+                </p>
                 <p class="quote-author">Napoleon Hill, Think and Grow Rich</p>
               </div>
 
-              <div class="seperator"></div>
+              <div class="horizontal-seperator"></div>
 
               <!-- Attribute list -->
               <div class="attribute-list">
@@ -47,8 +61,9 @@
                   <div class="attribute-detail">
                     <p class="attribute-name">Email</p>
                     <a
-                      href="mailto:vutien.dat.3601@gmail.com"
                       class="attribute-value link"
+                      target="_blank"
+                      href="mailto:vutien.dat.3601@gmail.com"
                       >vutien.dat.3601@gmail.com</a
                     >
                   </div>
@@ -66,8 +81,9 @@
                   <div class="attribute-detail">
                     <p class="attribute-name">GitHub</p>
                     <a
-                      href="https://github.com/vutiendat3601"
                       class="attribute-value link"
+                      target="_blank"
+                      href="https://github.com/vutiendat3601"
                       >https://github.com/vutiendat3601</a
                     >
                   </div>
@@ -85,8 +101,9 @@
                   <div class="attribute-detail">
                     <p class="attribute-name">LeetCode</p>
                     <a
-                      href="https://leetcode.com/u/vutiendat3601"
                       class="attribute-value link"
+                      target="_blank"
+                      href="https://leetcode.com/u/vutiendat3601"
                       >https://leetcode.com/u/vutiendat3601</a
                     >
                   </div>
@@ -104,15 +121,16 @@
                   <div class="attribute-detail">
                     <p class="attribute-name">Address</p>
                     <a
-                      href="https://maps.app.goo.gl/PdKuWAidJCUsRgkd8"
                       class="attribute-value link"
+                      target="_blank"
+                      href="https://maps.app.goo.gl/PdKuWAidJCUsRgkd8"
                       >Binh Hung Ward, Ho Chi Minh City</a
                     >
                   </div>
                 </div>
               </div>
 
-              <div class="seperator"></div>
+              <div class="horizontal-seperator"></div>
 
               <!-- Social list -->
               <div class="list-with-heading">
@@ -124,14 +142,15 @@
                       <img
                         class="attribute-icon"
                         src="./asset/img/icon/instagram-icon.svg"
-                        alt=""
+                        alt="Instagram"
                       />
                     </div>
                     <div class="attribute-detail">
-                      <p class="attribute-name">Email</p>
+                      <p class="attribute-name">Instagram</p>
                       <a
-                        href="https://www.instagram.com/vutiendat3601"
                         class="attribute-value link"
+                        target="_blank"
+                        href="https://www.instagram.com/vutiendat3601"
                         >@vutiendat3601</a
                       >
                     </div>
@@ -146,14 +165,15 @@
                       <img
                         class="attribute-icon"
                         src="./asset/img/icon/linkedin-icon.svg"
-                        alt=""
+                        alt="LinkedIn"
                       />
                     </div>
                     <div class="attribute-detail">
                       <p class="attribute-name">LinkedIn</p>
                       <a
-                        href="https://www.linkedin.com/in/vutiendat3601"
                         class="attribute-value link"
+                        target="_blank"
+                        href="https://www.linkedin.com/in/vutiendat3601"
                         >@vutiendat3601</a
                       >
                     </div>
@@ -162,7 +182,11 @@
               </div>
             </section>
           </aside>
-          <div class="col-9 content"></div>
+
+          <!-- Content -->
+          <div class="col-12 col-md-7 col-lg-8 content">
+            <h2 class="heading-2">Content is comming soon ...</h2>
+          </div>
         </div>
       </div>
     </main>

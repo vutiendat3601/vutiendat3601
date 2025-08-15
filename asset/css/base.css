@@ -1,9 +1,11 @@
 :root {
   --primary-color: #7264d6;
-  --aside-backgroud-color: #f7f9fc;
+  --aside-backgroud-color: #fff;
   --profile-picture-height: 120px;
+  --white-color: #ffffff;
   --gray-dark-color: #47516b;
   --gray-lightest-color: #e2e6ee;
+  --gray-lightest-2-color: #f7f9fc;
   --gray-default-color: #79819a;
 }
 
@@ -27,8 +29,15 @@ body {
   font-family: 'Nunito', sans-serif;
 }
 
-/* #: Common */
+a {
+  text-decoration-line: none;
+}
 
+a:hover {
+  text-decoration-line: underline;
+}
+
+/* #: Common */
 .heading-1,
 .heading-2,
 .heading-3,
@@ -60,13 +69,33 @@ body {
   font-size: 1.2rem;
 }
 
-.seperator {
+.horizontal-seperator {
   width: 100%;
   height: 1px;
+  background: var(--gray-lightest-color);
+}
+
+.vertical-seperator {
+  width: 1px;
+  height: 100%;
   background: var(--gray-lightest-color);
 }
 
 .link {
   text-decoration: none;
 }
+
+.btn {
+  border-radius: 999px;
+  padding: 4px 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+}
+
+.btn:hover {
+  opacity: 0.8;
+}
+
 /* # Common */
