@@ -210,7 +210,7 @@
 }
 
 .content .section-content .items .item:hover {
-  background-color: var( --gray-lightest-color);
+  background-color: var(--gray-lightest-color);
 }
 
 .content .edu-icon,
@@ -251,7 +251,8 @@
 
 .content .edu-details .time,
 .content .experience-details .time {
-flex: 1;
+  flex: 1;
+  min-width: 100px;
   text-align: end;
 }
 
