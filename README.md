@@ -1,5 +1,5 @@
 # Hi 👋 everyone
-<p>My name is Dat (Vũ Tiến Đạt). I have been living in Ho Chi Minh City since 2019.</p>
+<p>My name is Dat Vu. I'm working as a Software Engineer.</p>
 
 <!-- - 🌐 Visit my [Portfolio website](https://vutiendat3601.github.io/) for more information and to get in touch. -->
 <ul>
