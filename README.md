@@ -1,5 +1,5 @@
 # Hi 👋 everyone
-<p>My name is Dat Vu. I'm working as a Software Engineer.</p>
+<p>My name is Dat Vu. I'm working as a Software Engineer at <a href="https://cmcglobal.com.vn">CMC Global Vietnam</a>.</p>
 
 <!-- - 🌐 Visit my [Portfolio website](https://vutiendat3601.github.io/) for more information and to get in touch. -->
 <ul>
